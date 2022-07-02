@@ -1,3 +1,3 @@
 # From Trend Micro Web Reputation Detections
-poshhateful.com
-achcdn.com
+0.0.0.0 poshhateful.com
+0.0.0.0 achcdn.com
