@@ -1,0 +1,3 @@
+# From Trend Micro Web Reputation Detections
+poshhateful.com
+achcdn.com
