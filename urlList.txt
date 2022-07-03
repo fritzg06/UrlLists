@@ -1,3 +1,10 @@
 # From Trend Micro Web Reputation Detections
 0.0.0.0 poshhateful.com
 0.0.0.0 achcdn.com
+
+# Text Scam
+0.0.0.0 wa.me
+0.0.0.0 allowance.email
+0.0.0.0 phwsappq.com
+0.0.0.0 e4l.cn
+0.0.0.0 wa.link
