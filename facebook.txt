@@ -1,0 +1,16 @@
+facebook.com
+www.facebook.com
+m.facebook.com
+mobile.facebook.com
+fbcdn.net
+static.xx.fbcdn.net
+video.xx.fbcdn.net
+scontent.xx.fbcdn.net
+connect.facebook.net
+graph.facebook.com
+api.facebook.com
+edge-mqtt.facebook.com
+star-mini.c10r.facebook.com
+upload.facebook.com
+b-api.facebook.com
+b-graph.facebook.com
