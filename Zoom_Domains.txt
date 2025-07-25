@@ -1,0 +1,24 @@
+*.zoom.us
+*.zoom.com
+*.zoomgov.com
+us02web.zoom.us         # Default Zoom meeting domain (others: us04web, us05web, etc.)
+st1.zoom.us             # Static assets
+st2.zoom.us
+st3.zoom.us
+st.zoom.us
+zoomappdocs.zoom.us     # Zoom Apps documentation
+zoomchart.zoom.us       # Zoom meeting analytics
+marketplace.zoom.us     # Zoom Marketplace
+support.zoom.us         # Zoom support site
+status.zoom.us          # Zoom service status
+static.zoom.us          # Static content
+cdn.zoom.us             # CDN content
+*.cloudfront.net        # Some Zoom content is served via Amazon CloudFront
+*.zoomcdn.io            # Zoom client and asset CDN
+*.zoomwd.com            # Web downloads and updates
+update.zoom.us          # Windows/macOS Zoom client updates
+zoom.us.edgekey.net     # Akamai edge cache domain
+*.akamai.net
+*.akamaihd.net
+*.edgekey.net
+*.amazonaws.com
