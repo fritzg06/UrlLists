@@ -1,0 +1,21 @@
+*.meet.google.com
+*.accounts.google.com
+*.apis.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients6.google.com
+*.gstatic.com
+*.googleusercontent.com
+hangouts.google.com     # Legacy support
+talk.google.com         # Used for signaling
+lh3.googleusercontent.com   # Profile images, avatars
+mtp.googleapis.com          # Media transport protocols
+relay.googleapis.com        # WebRTC relay
+notifications.google.com
+*.googlevideo.com       # Used for video streams
+*.ggpht.com             # Google static assets (images, icons)
+*.googleapis.com        # General API access
+*.withgoogle.com        # Supporting Google services
+*.googlesyndication.com # Occasionally loads static resources
