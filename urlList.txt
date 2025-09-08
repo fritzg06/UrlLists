@@ -53,3 +53,7 @@ ygn063.com
 
 # Malware
 weighcobbweo.top
+
+# Unknown or Untested
+dxshield.com
+ultrasdk.com
