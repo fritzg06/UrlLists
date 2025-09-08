@@ -57,3 +57,4 @@ weighcobbweo.top
 # Unknown or Untested
 dxshield.com
 ultrasdk.com
+webzen.com
